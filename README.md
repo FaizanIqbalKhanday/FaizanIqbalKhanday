@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Faizan Iqbal</h1>
-<h3 align="center">Experienced Full Stack Developer in the information technology and services industry with an established experience of coding.</h3>
+<h3 align="center">Passionate software developer eager to learn, grow, and contribute to innovative projects. 💻 Let's code and collaborate!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=FaizanIqbalKhanday&label=Profile%20views&color=0e75b6&style=flat" alt="FaizanIqbalKhanday" /> </p>
 
